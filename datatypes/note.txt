@@ -1,3 +1,32 @@
+datatypes in python
+---------------------
+the following types of datatypes are avaiable in python
+1. None --- null value
+2. sequence -- (bytes, bytearray, list, tuple, range) -- (it is basically an array)
+3. Set
+4. Mapping -- dictionary hold values in key and value pair
+5. numeric type
+
+-----> the purpose of datatypes is to identify the type of value a variable holds
+
+what is a variable?
+---> a variable is that who stores some value
+---> a varible in python doen't need to be specified the datatype externally.
+
+
+example
+-----
+a=10
+means a is integer value
+b=10.3
+b is float kind of value
+
+----> in python the type of value decides what kind of varible that is.
+----> according to the type of value the datatype is decided
+
+
+
+
 bytes-- this represents group of elements in the form  of numbers in byte.
 2. these are stored in the form of array.
 3. the elements canot be modified.
