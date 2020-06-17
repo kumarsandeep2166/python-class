@@ -1,0 +1,131 @@
+python was introduced by Guido van Rossum in the year 1991.
+the latest version stable release is 3.8
+Features
+------------
+1. Simple -- less stress on clarity about the programming structure.it is Just like reading english statements. Easy
+2. Easy to learn -- The elegant style of coding makes easy to learn even complex applications. it has very less keywords
+3. Open source -- no need to pay for python. it is freely available
+4. High level language -- as it supports oops feature.
+5. Dynamically Typed--- we need not to declare anything as everything is already predefinely declared.
+                        An assignment statements binds to an object of particular type can be changed to another
+                        changing the value only.
+6. platform independent-- when a code is written in windows system is also same in mac or linux.
+7. Portable - when a programming language gives same output in different environments it becomes Portable.
+                Once a code is written , it can run in any platform and executed by 
+                PVM(Python virtual machine)
+8. Procedural as well as object Oriented --- python supports structured oriented programming 
+                                            style that, programs are developed using functions and procedures.
+                                            In case OOP use of classes and objects.
+
+9. Interpreted -- Each program is executed line by line. It is the job of PVM to reach on every line to execute.
+10. Extensible - python can communicate with other programming languages like C, java, C++.
+                The programs written in other programming labguages can be integrated into python.
+11. Embeddable -- we can also use python into other programming languages.
+12. Huge Library --- python has a huge Library for different operating systems as programmers can develop 
+                    applications using specific library.
+13. Scripting Language-- python script 
+14. Database Connectivity -- python can be used for Connectivity with any Database available in the world.
+15. Scalable ---- it can be moved from one source to mutiple destinations.
+
+KEYWORDS
+---------
+and
+as
+assert
+break
+class
+continue
+def
+del 
+else 
+elif
+except
+exec
+finally
+for
+from 
+global
+in
+is
+import
+if
+lambda
+nonlocal
+not
+None
+False
+True
+or
+pass
+print
+raise
+return
+try
+while
+with
+yield
+
+Comments
+------------
+3 types of comments used in python
+single line comments
+multiline comments or docstrings
+docstrings (it ocuupies memory but it doesn't get executed)
+
+
+In case of python each module present in it's library has a specific purpose.
+for a specific need specific modules are used for developemnt of application.
+
+SETUP
+-------
+Before wrtting programs or developing softwares python needs an environment to be activated.
+
+to install the environment the command is
+"pip install module_name"
+
+what is PIP?
+pip stands for python installed package which installs modules or libraries present inside python library.
+pip in nothing but a software which is used to install the specific module.
+
+
+command
+--------
+1. virtualenv xyz(anyspecific name)
+if the first command doesn't work then we can also try,
+2. py3 -m virtualenv env(any specific name) 
+
+
+to activate the virtual environment in system we have to pass the command
+steps
+----------
+1. open the desired folder
+2. on the address bar type cmd and hit enter to open command prompt.
+**suppose the folder name is --- python class and the desired environment name is 'env'
+3. inside folder 'python class' open the cmd then type
+the following command
+'E:\python class\env\Scripts\activate'
+4. now the environment gets activated.
+
+activate command present inside 'Scripts' folder is used to activate the environment.
+
+how to download and install python in windows?
+--------------------------------------------------
+1. open browser and search www.python.org
+for 64 bit go to downloads section and find 'Download Windows x86-64 executable installer'
+2. download the file and then click it for installation.
+3. add to path(click tick)
+4. on another prompt it will ask to click [install for all users][tick on there.]
+
+how to check whether python is installed or not?
+-----> on command prompt type "python" then hit enter, then the python console will open
+
+open an account on www.github.com
+
+datatype
+-------------
+None
+Numeric
+sequence
+set 
+Mappings
+None
