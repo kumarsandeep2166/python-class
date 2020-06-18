@@ -1,9 +1,5 @@
 r = range(10)
 for i in r:
-    if i == 4:        
-        continue
-    if i==8:
-        break
     print(i)
 
 

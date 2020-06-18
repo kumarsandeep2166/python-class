@@ -25,7 +25,13 @@ b is float kind of value
 ----> according to the type of value the datatype is decided
 
 
+sequence
+---------
+it is basically an array where elements are stored.
 
+str 
+-----
+it is called as string and it is basically array of characters.
 
 bytes-- this represents group of elements in the form  of numbers in byte.
 2. these are stored in the form of array.

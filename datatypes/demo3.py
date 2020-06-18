@@ -11,3 +11,6 @@ print(tup*2)
 print(tup[-2])
 print(tup[-8:-1])
 print(tup[-10:-1:2])
+
+# tuple is defined in () paranthesis
+# tuple doen't support item assignment

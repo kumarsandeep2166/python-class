@@ -16,3 +16,7 @@ print(ch)
 # we cannot retrieve the elements from set 
 # print(ch[0:13])
 # TypeError: 'set' object is not subscriptable
+
+
+# set always holds unique values
+# set is always unordered
